@@ -25,7 +25,7 @@ export default class App extends React.Component {
       <div className="App" >
         <div className="splitscreen">
           <div className="left">
-            <button type="button" onClick={this.handleClick}>
+            <button type="button" style={{ width: "100%", color: "white", backgroundColor: "#26b2e0" }} onClick={this.handleClick}>
               Switch PDF
             </button>
             {this.state.active && <PDFViewer />}
