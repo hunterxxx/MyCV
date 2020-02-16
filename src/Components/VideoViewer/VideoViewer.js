@@ -24,7 +24,7 @@ export default class VideoViewer extends React.Component {
 
     render() {
         return (
-            <div id='viewer' style={{ width: '100%', height: '50%' }}>
+            <div id='viewer' >
                 <PlyrComponent sources={this.state.sources} />
             </div>
         )
