@@ -5,11 +5,9 @@ html, body, #root, .App {
 
 .splitscreen {
   display:flex;
-  align-items: stretch; 
 }
 .splitscreen .left {
   flex: 1;
-  min-height: 100vh;
 }
 .splitscreen .right {
   flex: 1;

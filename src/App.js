@@ -33,10 +33,7 @@ export default class App extends React.Component {
           </div>
           <div className="right">
             <VideoViewer />
-            <MarkdownViewer />
-          </div>
-          <div className="right">
-
+            <MarkdownViewer style={{ marginLeft: "50px" }} />
           </div>
         </div >
       </div >

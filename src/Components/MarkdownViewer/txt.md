@@ -2,7 +2,7 @@
 xx's situation in xxx is not bad at all but he wants to move to Zurich since longer because he and his wife like Switzerland and want at some point local citizenship without giving up US citizenship (not possible in Germany).
 
 
-*Money*
+**Money**
 Currently making xxx, quite good for Germany (ok for Munich), 30 days vacation (German standard), still wants to move to Zurich.
 
 *Salary wish for Zurich*

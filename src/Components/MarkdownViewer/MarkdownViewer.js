@@ -20,7 +20,7 @@ export default class MarkdownViewer extends React.Component {
         //const link = 'https://f000.backblazeb2.com/file/superbucket1/txt.md'
 
         return (
-            <div id='viewer'>
+            <div id='viewer' style={{ margin: '8px' }}>
                 <Markdown children={this.state.md} />
             </div>
         )
